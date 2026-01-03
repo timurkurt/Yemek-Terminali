@@ -17,7 +17,7 @@ Merhaba biz İstanbul Gelişim Üniversitesi Bilgisayar Teknolojileri Öğrencil
 
 **Gerçek Zamanlı Sepet Hesaplama:** Seçilen her ürün ve ekstra için anlık fiyat güncellemesi yapar.
 
-**Otomatik Adisyon Sistemi:** Sipariş tamamlandığında hem mutfağa gönderir, hemde projenin içine entegre edilmiş şekilde varsayılan yazıcıdan replikasını çıkarmakta.
+**Otomatik Adisyon Sistemi:** Sipariş tamamlandığında hem mutfağa gönderir, hemde projenin içine entegre edilmiş yazıcı seçmeye gerek kalmadan varsayılan yazıcıdan replikasını çıkarmakta.
 
 **Kapatılamaz Arayüz:** Tkinter kullanılarak tasarlanmış, tam ekran modunda çalışır bu sayede programdan çıkış yapmak zorlaştırılmıştır
 
