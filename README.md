@@ -23,9 +23,13 @@ Merhaba biz İstanbul Gelişim Üniversitesi Bilgisayar Teknolojileri Öğrencil
 
 ## Kullanılan Kütüphaneler
 **Python 3.x**
+
 **Tkinter:**  Grafik arayüz tasarımı.
+
 **OpenCV (cv2):** Video işleme ve oynatma.
+
 **Pillow (PIL):** Görsel işleme ve buton tasarımları.
+
 **PyWin32:** Windows yazıcı (printer) entegrasyonu.
 
 ## Adisyon Örneği
