@@ -93,10 +93,15 @@ Hello, we, Istanbul Gelisim University Computer Technologies Students Timur Kurt
 **Unpluggable Interface:** Designed using Tkinter, it operates in full-screen mode, making it difficult to log out of the program
 
 ## Libraries Used 
-Python 3.x Tkinter: Graphic interface design. 
-OpenCV (cv2): Video processing and playback. 
-Pillow (PIL): Visual processing and button designs. 
-PyWin32: Windows printer integration. 
+**Python 3.x** 
+
+**Tkinter:** Graphic interface design. 
+
+**OpenCV (cv2):** Video processing and playback. 
+
+**Pillow (PIL):** Visual processing and button designs. 
+
+**PyWin32:** Windows printer integration. 
 
 ## Ticket Example When the order is completed, a receipt like this will appear from the billing device:
 ```
