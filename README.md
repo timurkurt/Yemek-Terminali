@@ -22,11 +22,11 @@ Merhaba biz İstanbul Gelişim Üniversitesi Bilgisayar Teknolojileri Öğrencil
 **Kapatılamaz Arayüz:** Tkinter kullanılarak tasarlanmış, tam ekran modunda çalışır bu sayede programdan çıkış yapmak zorlaştırılmıştır
 
 ## Kullanılan Kütüphaneler
-Python 3.x
-Tkinter:  Grafik arayüz tasarımı.
-OpenCV (cv2): Video işleme ve oynatma.
-Pillow (PIL): Görsel işleme ve buton tasarımları.
-PyWin32: Windows yazıcı (printer) entegrasyonu.
+**Python 3.x**
+**Tkinter:**  Grafik arayüz tasarımı.
+**OpenCV (cv2):** Video işleme ve oynatma.
+**Pillow (PIL):** Görsel işleme ve buton tasarımları.
+**PyWin32:** Windows yazıcı (printer) entegrasyonu.
 
 ## Adisyon Örneği
 Sipariş tamamlandığında adisyon cihazından buna benzer fiş çıkar:
