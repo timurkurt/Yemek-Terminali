@@ -103,7 +103,8 @@ Hello, we, Istanbul Gelisim University Computer Technologies Students Timur Kurt
 
 **PyWin32:** Windows printer integration. 
 
-## Ticket Example When the order is completed, a receipt like this will appear from the billing device:
+## Ticket Example 
+When the order is completed, a receipt like this will appear from the billing device:
 ```
 Tarih: 03.01.2026 22:15
 Siparis No: #4582
