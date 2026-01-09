@@ -117,7 +117,7 @@ Secilen Tum Urunler:
 ---------------------------------
 Toplam Tutar: 480.50 TL
 ```
-## Geliştiren Grup
+## Developing Group
 <table>
   <tr>
     <td align="center">
